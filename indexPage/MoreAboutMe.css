@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h3 { 
+		color: rgb(26,35,46);
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+p { 
+	color: rgb(61,68,76);
+}
+
+.NewPost { 
+	width: 95%;
+	margin: 2.5%;
+	Border-bottom: 1px solid  rgb(172,180,186) ;
+}
+
+.FirstParagraph{ 
+	padding-left: 1%;
+	Border-left: 3px solid rgb(172,180,186);
+}
+
+#BackDrop{ 
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 10px solid #211A1E ;
+}
+
+img {
+	width: 30%;
+	height: 13em;
+	float: left;
+	margin: 1.66%;
+}

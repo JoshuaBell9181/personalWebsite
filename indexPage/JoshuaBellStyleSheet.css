@@ -1,0 +1,26 @@
+
+
+div.jumbotron {
+  background-image: url(/Users/joshbell/Desktop/MyWebsite/Untouched\ Images/ProfilePic\ Untouched/JoshuaDespersion.jpg );
+  background-position: 0% 5%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #000000; 
+}
+
+
+.btn-getStarted {
+    color: #fff;
+    background-color: #a72828;
+    border-color: #a72828;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #211AE1;
+    border-color: #211AE1;
+}
+
+ul { 
+margin-bottom: 24px;
+}
